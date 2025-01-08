@@ -13,10 +13,10 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
 - 💻 **Full Stack Developer in Training**:  
   Currently enrolled in a **Full Stack Web Development Bootcamp** at **Factoría F5**, specializing in modern web technologies and frameworks.  
 - 🤝 **Collaborator**:  
-  - **Asociación Asturiana de Sumilleres**: Maintaining and updating the organization's website.  
+  - **Asociación Asturiana de Sumilleres**: Maintaining and updating the organization's [website](https://astursumilleres.es/).  
   - **AGACUJ**:  
     - Acting as Google Workspace Administrator.  
-    - Developing the new website in WordPress for the association.  
+    - Developing the new website in WordPress for the association. WIP.
 
 ---
 ### 📊 GitHub Stats  
