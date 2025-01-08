@@ -24,6 +24,12 @@ I'm **Mabel Rincón**, a versatile professional bridging the gap between IT serv
 
 ---
 
+### 📊 GitHub Stats  
+
+![Mabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MabelRincon&show_icons=true&theme=radical)  
+
+---
+
 ### 🔧 My Toolbox  
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
