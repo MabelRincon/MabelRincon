@@ -1,6 +1,8 @@
 # Hello World! 🌍  
 
-I'm **Mabel Rincón**, a versatile professional bridging the gap between IT services, project management, and web development. My journey has been fueled by a passion for learning and creating, which I bring to every project I work on.  
+I'm **Mabel Rincón**, a versatile professional bridging the gap between IT services, project management, and web development. My journey has been fueled by a passion for learning and creating, which I bring to every project I work on. 
+
+Supporting and guiding the next generation of tech talent is one of my greatest joys. 
 
 ### 🚀 About Me  
 - 💼 **Senior IT Services Engineer**: Extensive experience in IT systems management with a strong focus on security and process optimization.  
