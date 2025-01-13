@@ -21,8 +21,10 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
 ---
 ### 📊 GitHub Stats  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MabelRincon&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Mabel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MabelRincon&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MabelRincon&layout=compact&theme=radical&langs_count=8)
 
 ---
 
