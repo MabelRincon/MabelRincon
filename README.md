@@ -7,7 +7,8 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
 ### 🚀 About Me  
 - 💼 **Senior IT Services Engineer**: Extensive experience in IT systems management with a strong focus on security and process optimization.  
 - 🎯 **QA Tester in Financial Services**: Hands-on experience ensuring the quality and reliability of digital asset treasury operations.
-- 🎓 **Certified Professional**:  
+- 🎓 **Certified Professional**:
+  - **Online Training Instructor Certification**  
   - **Google Project Management: Professional Certificate**  
   - **Google Digital Marketing & E-commerce Professional Certificate**  
 - 💻 **Full Stack Developer in Training**:  
