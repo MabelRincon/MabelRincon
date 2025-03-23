@@ -11,12 +11,13 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
   - **Google Project Management: Professional Certificate**  
   - **Google Digital Marketing & E-commerce Professional Certificate**  
 - 💻 **Full Stack Developer in Training**:  
-  Currently enrolled in a **Full Stack Web Development Bootcamp** at **Factoría F5**, specializing in modern web technologies and frameworks.  
+  Currently enrolled in a **Full Stack Web Development Course** at **Factoría F5**.
 - 🤝 **Collaborator**:  
   - **Asociación Asturiana de Sumilleres**: Maintaining and updating the organization's [website](https://astursumilleres.es/).  
   - **AGACUJ**:  
     - Acting as Google Workspace Administrator.  
     - Developing the new website in WordPress for the association. WIP.
+    - Tailor admin area for Member Services Team. Stack Java. WIP.
 
 ---
 ### 📊 GitHub Stats  
@@ -49,16 +50,6 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
 ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?logo=googleworkspace&logoColor=white&style=flat)  
 
 ---
-
-### 🌱 Current Learning Journey  
-As part of my **Factoría F5 Bootcamp**, I'm mastering:  
-- Responsive web design and dynamic user interfaces.  
-- Backend development.  
-- Database management and API integration.  
-- Agile workflows and collaborative teamwork on real-world projects.  
-
----
-
 ### 🌟 Fun Facts  
 - My pet is a snail called **Garín** 🐌.  
 - I am a **Professional Iberian Ham Carver**, **Tasting and Iberian Products Specialist**, and have **notions of sommelier**.  
