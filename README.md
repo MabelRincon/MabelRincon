@@ -28,7 +28,8 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
 ### 🌟 Fun Facts  
 - My pet is a snail called **Garín** 🐌.  
 - I am a **Professional Iberian Ham Carver**, **Tasting and Iberian Products Specialist**, and have **notions of sommelier**.  
-- I thrive on combining my love for food and tech into creative conversations!  
+- I thrive on combining my love for food and tech into creative conversations!
+- Rookie drummer 🥁
 
 ---
 
