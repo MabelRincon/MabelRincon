@@ -15,11 +15,19 @@ Supporting and guiding the next generation of tech talent is one of my greatest 
   Currently enrolled in a **Full Stack Web Development Course** at **Factoría F5**.
 - 🤝 **Collaborator**:  
   - **AGACUJ**:  
-    - Acting as Google Workspace Administrator.  
-    - Developing the new website in WordPress for the association. WIP.
-    - Tailor admin area for Member Services Team. Stack Java. WIP.
+    - Migrated legacy Java 8 website and domain services to a new hosting provider.
+    - [Converted dynamic site to static format to preserve historical content.](https://github.com/Agacuj/agacuj.github.io)
+    - Secured nonprofit certification with Google.
+    - Google Workspace Administrator role. 
+    - Currently developing a new WordPress website and a custom mobile-friendly member services app.
+    - Overseeing IT systems administration, security, and training for association leadership.
 
----
+  - **Asociación Asturiana de Sumilleres**
+    - [Web de la AAS](https://astursumilleres.es/)
+    - Recovered and secured hacked WordPress site after critical breach; removed malicious content and restored functionality.
+    - Implemented site hardening measures and ongoing updates to ensure security and stability.
+    - Archiving legacy PHP site into static format to preserve historical content within the modern site.
+  
 ### 📊 GitHub Stats  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MabelRincon&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
